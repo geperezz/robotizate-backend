@@ -1,0 +1,1 @@
+ALTER TABLE "dance_participants" DROP COLUMN "rank";

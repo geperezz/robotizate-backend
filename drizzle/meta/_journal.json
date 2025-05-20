@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1747627275395,
+      "tag": "0000_init",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1747633161906,
+      "tag": "0001_add_dance_category_tables",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1747683099602,
+      "tag": "0002_rename_scoring_criteria_table",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1747690780465,
+      "tag": "0003_drop_rank_from_dance_participants_table",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1747698595731,
+      "tag": "0004_rename_dance_performances_table",
+      "breakpoints": true
+    }
+  ]
+}
